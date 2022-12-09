@@ -5,7 +5,7 @@
     Simple Snake Game build using Angular 11. 
 </p>
 
-Checkout the GH Page to play the [game](https://akkitheakhil.github.io/Angular-Snake-Game/) 
+Checkout the GH Page to play the [game](https://github.com/GloriaNanana/Snake) 
 
 * Screenshots
 
@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/akkitheakhil/Angular-Snake-Game.git
+   git clonehttps://github.com/GloriaNanana/Snake.git
    ```
 2. Install NPM packages
    ```sh
@@ -47,4 +47,4 @@ To get a local copy up and running follow these simple example steps.
 
 Akhil Padmanabhan - speaktoakhilp@gmail.com
 
-Project Link: [https://github.com/akkitheakhil/Angular-Snake-Game/](https://github.com/akkitheakhil/Angular-Snake-Game/)
+Project Link: [https://github.com/GloriaNanana/Snake/](https://github.com/GloriaNanana/Snake/)
